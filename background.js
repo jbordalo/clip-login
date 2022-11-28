@@ -1,0 +1,1 @@
+console.log("clip-login: service worker active");
